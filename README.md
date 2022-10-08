@@ -18,7 +18,7 @@ Install all the packages in requirements.txt and build AFSD module
 pip3 install -r requirements.txt
 python3 setup.py develop
 ```
-##Step3
+## Step3
 修改/config/thumos14.yaml中5-7、12-15行、第24行
 
 video_info_path: /home/lzdjohn/AFSD/AFSD30/thumos_annotations/val_video_info.csv
