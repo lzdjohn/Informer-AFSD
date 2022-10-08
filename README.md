@@ -5,9 +5,8 @@ This project includes informer, I3D, MLP, RNN backbones with an AFSD detection p
 ## Step1
 Extract this project into a folder
 
-Download the Wi-Fi dataset and the pretrained model [\[百度云\]](https://pan.baidu.com/s/146T_QCo1HGUL895mCFt8HQ?pwd=ftla) password: ftla
+Download the Wi-Fi dataset and the pretrained model [\[百度云\]](https://pan.baidu.com/s/146T_QCo1HGUL895mCFt8HQ?pwd=ftla) password: ftla, extract them in the root directory
 
-extract them in the root directory
 
 ## Step2
 Creat a conda environment
