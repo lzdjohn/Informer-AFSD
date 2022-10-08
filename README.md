@@ -18,7 +18,7 @@ use: conda create -n Informer-AFSD python=3.7
 ```
 
 ## Step4
-Download all packages in requirements.txt, build AFSD module
+Download all the packages in requirements.txt and build AFSD module
 ```shell script
 use: pip3 install -r requirements.txt
 python3 setup.py develop
