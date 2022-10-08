@@ -2,7 +2,7 @@
 This project includes informer,MLP,RNN backbones with an AFSD detection part
 
 ## Step1
-Extract this project in a folder
+Extract this project into a folder
 
 ## Step2
 Download the Wi-Fi dataset and the pretrained model [\[百度云\]](https://pan.baidu.com/s/146T_QCo1HGUL895mCFt8HQ?pwd=ftla) password: ftla
