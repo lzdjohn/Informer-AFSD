@@ -39,6 +39,9 @@ default='/home/lzdjohn/AFSD/AFSD30/configs/thumos14.yaml', nargs='?')
 变更为自己主机的路径上
 
 # 使用说明
-运行文件在/AFSD/thumos14文件夹中。请运行train.py文件开始训练，每次训练的模型均会存储；训练完毕后用测试集对每轮模型进行测试生成json文件，json文件里标定动作起止时间及概率；最后train文件运行结束。
+运行文件在/AFSD/thumos14文件夹中。请运行train.py文件开始训练，可修改其中的头文件变更模型
+![1)MEJ_AKC2H(P64P~J LX7](https://user-images.githubusercontent.com/47667100/194705980-262a1f31-4572-4a7d-bacc-48397af851eb.png)
+
+每次训练的模型均会存储；训练完毕后用测试集对每轮模型进行测试生成json文件，json文件里标定动作起止时间及概率；最后train文件运行结束。
 
 若要测试，请运行eval.py文件，该文件显示每轮模型得到的json文件与真实json文件数据的tiou精度。
