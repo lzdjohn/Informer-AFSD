@@ -29,7 +29,10 @@ video_data_path: /home/lzdjohn/AFSD/AFSD30/datasets/thumos14/validation_npy/
 
 24行backbone_model: /home/lzdjohn/AFSD/AFSD30/models/thumos14/checkpoint-15.ckpt
     
-    到自己主机的路径上
+到自己主机的路径上
+
 修改/AFSD/common/config.py第八行
+
 default='/home/lzdjohn/AFSD/AFSD30/configs/thumos14.yaml', nargs='?')
+
 到自己主机的路径上
