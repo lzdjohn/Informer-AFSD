@@ -2,11 +2,12 @@
 Including Informer MLP RNN backbone with AFSD detection part
 
 #Step1
-Extract files in the folder
+Extract this project in a folder
 
 #Step2
-Download the Wi-Fi dataset
-
+Download the Wi-Fi dataset [\[百度云\]](https://pan.baidu.com/s/10uSTEQQmwOBhA2HXa-Jcuw?pwd=jdsp) password: jdsp
+pre-trained model [\[微云\]](https://share.weiyun.com/bP62lmHj) password: w88y
+extract them in the root directory
 
 #Step3
 Creat a conda environment
