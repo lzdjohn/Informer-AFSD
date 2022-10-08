@@ -1,5 +1,5 @@
 # Informer-AFSD
-Including informer,MLP,RNN backbones with an AFSD detection part
+This project includes informer,MLP,RNN backbones with an AFSD detection part
 
 ## Step1
 Extract this project in a folder
