@@ -12,12 +12,12 @@ extract them in the root directory
 ## Step3
 Creat a conda environment
 ```shell script
-use: conda create -n Informer-AFSD python=3.7
+conda create -n Informer-AFSD python=3.7
 ```
 
 ## Step4
 Download all the packages in requirements.txt and build AFSD module
 ```shell script
-use: pip3 install -r requirements.txt
+pip3 install -r requirements.txt
 python3 setup.py develop
 ```
